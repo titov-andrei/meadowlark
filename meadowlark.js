@@ -1,3 +1,5 @@
+var fortune = require("./lib/fortune.js");
+
 var express = require('express');
 
 var app = express();
